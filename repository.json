@@ -1,0 +1,15 @@
+{
+  "name": "hushfund-contracts",
+  "description": "Ethereum Mainnet USDC vault contracts, Noir circuits, verifiers and protocol tests.",
+  "homepage": "https://hushfund.app",
+  "visibility": "public",
+  "topics": [
+    "hushfund",
+    "ethereum",
+    "usdc",
+    "mainnet",
+    "open-source"
+  ],
+  "has_wiki": false,
+  "has_projects": false
+}
